@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.myproject-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Embry-Riddle/Desktop/SIM_350_M01.DV01_Diorama-main/ProdBuild/WindowsNoEditor/SIM_350_M2.PR1_Ethan/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "MyProject-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
